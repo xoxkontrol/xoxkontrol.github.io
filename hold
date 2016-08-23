@@ -1,0 +1,284 @@
+<div class="col s12 h_100 font_daniel center">
+
+  <h3 style="font-weight:normal;" class="more_padding blue-grey-text text-darken-4" >Responsive UI Design</h3>
+
+</div>
+
+<div class="col s12 m6 l3 h_400 purple accent-4">
+
+  <div class="row">
+
+    <div class="col s12 h_50"></div>
+
+  </div>
+
+  <div class="row">
+
+    <div class="col s12 center">
+
+      <i class="large material-icons med_padding darkpurple">polymer</i>
+
+    </div>
+
+  </div>
+
+  <div class="row">
+
+    <div class="col s12 center">
+
+      <p class="darkpurple">Slick User Interfaces, built following Google's Material design guidelines.</p>
+
+    </div>
+
+  </div>
+
+</div>
+
+<div class="col s12 m6 l3 h_400 red accent-3">
+
+  <div class="row">
+
+    <div class="col s12 h_50"></div>
+
+  </div>
+
+  <div class="row">
+
+    <div class="col s12 center">
+
+      <i class="large material-icons med_padding darkpink">desktop_mac</i>
+
+    </div>
+
+  </div>
+
+  <div class="row">
+
+    <div class="col s12 center">
+
+      <p class="darkpink">Elegant wide screen user interfaces for desktop screen sizes.</p>
+
+    </div>
+
+  </div>
+
+</div>
+
+<div class="col s12 m6 l3 h_400 lime accent-3">
+
+  <div class="row">
+
+    <div class="col s12 h_50"></div>
+
+  </div>
+
+  <div class="row">
+
+    <div class="col s12 center">
+
+      <i class="large material-icons med_padding darkgreen">phone_android</i>
+
+    </div>
+
+  </div>
+
+  <div class="row">
+
+    <div class="col s12 center">
+
+      <p class="darkgreen">Responsive Stacked layouts for smaller Mobile and Tablet PC screen sizes.</p>
+
+    </div>
+
+  </div>
+
+</div>
+
+<div class="col s12 m6 l3 h_400 blue accent-4">
+
+  <div class="row">
+
+    <div class="col s12 h_50"></div>
+
+  </div>
+
+  <div class="row">
+
+    <div class="col s12 center">
+
+      <i class="large material-icons med_padding darkblue">watch</i>
+
+    </div>
+
+  </div>
+
+  <div class="row">
+
+    <div class="col s12 center">
+
+      <p class="darkblue">Extreemly squeezed down UI comfortable for Smart Gear interface experience.</p>
+
+    </div>
+
+  </div>
+
+</div>
+
+<div class="col s12 h_300 white">
+
+  <div class="row">
+
+    <div class="col s12 h_50"></div>
+
+    <div class="col s12 blue-grey-text text-darken-4">
+
+      <h2 style="vertical-align: inline;" class="center">
+
+        <i class="medium material-icons med_padding">camera</i>
+
+        <span style="font-size:1.2em;">Demo</span>
+
+      </h2>
+
+    </div>
+
+    <div class="col s12 h_50"></div>
+
+    <div class="col s12 m6 l4">
+
+      <div class="card small">
+
+        <div class="card-image waves-effect waves-block waves-light">
+
+          <img class="activator" src="images/theme1.png">
+
+        </div>
+
+        <div class="card-content">
+
+          <span class="card-title activator blue-grey-text text-darken-4">
+
+            Cloud App Dashboard<i class="material-icons right">more_vert</i>
+
+          </span>
+
+          <p><a href="dashboard.html">Dashboard demo</a></p>
+
+        </div>
+
+        <div class="card-reveal">
+
+          <span class="card-title blue-grey-text text-darken-4">
+
+            Cloud App Dashboard<i class="material-icons right">close</i>
+
+          </span>
+
+          <p class="blue-grey-text text-darken-4">
+
+            Dashboard User Interface are designed for Websites or Cloud application Admin users, which contain multiple display components for comfortable User Experiences.
+            Data can be presented in graph or chart formats.
+
+          </p>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <div class="col s12 m6 l4">
+
+      <div class="card small">
+
+        <div class="card-image waves-effect waves-block waves-light">
+
+          <img class="activator" src="images/theme2.png">
+
+        </div>
+
+        <div class="card-content">
+
+          <span class="card-title activator blue-grey-text text-darken-4">
+
+            Portfolio Page<i class="material-icons right">more_vert</i>
+
+          </span>
+
+          <p><a href="portfolio.html">Portfolio Demo</a></p>
+
+        </div>
+
+        <div class="card-reveal">
+
+          <span class="card-title blue-grey-text text-darken-4">
+
+            Portfolio Page<i class="material-icons right">close</i>
+
+          </span>
+
+          <p class="blue-grey-text text-darken-4">
+
+            Portfolio pages designed to showcase career acheivement. Minimalistic in design which boldly expresses.
+
+          </p>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <div class="col s12 m6 l4">
+
+      <div class="card small">
+
+        <div class="card-image waves-effect waves-block waves-light">
+
+          <img class="activator" src="images/theme3.png">
+
+        </div>
+
+        <div class="card-content">
+
+          <span class="card-title activator blue-grey-text text-darken-4">
+
+            Online Store<i class="material-icons right">more_vert</i>
+
+          </span>
+
+          <p><a href="store.html">Online Store Demo</a></p>
+
+        </div>
+
+        <div class="card-reveal">
+
+          <span class="card-title blue-grey-text text-darken-4">
+
+            Online Store<i class="material-icons right">close</i>
+
+          </span>
+
+          <p class="blue-grey-text text-darken-4">Here is some more information about this product that is only revealed once clicked on.</p>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <div id="cloud" class="col s12 h_50"></div>
+
+  </div>
+
+</div>
+
+<div class="col s12 h_100 font_dubtronic center">
+
+  <h3 style="font-weight:normal;" class="more_padding blue-grey-text text-darken-4" >Cloud Apps</h3>
+
+</div>
+
+<div class="col s12 h_400 grey lighten-4">
+
+</div>
