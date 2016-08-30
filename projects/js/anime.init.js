@@ -1,29 +1,29 @@
 $(document).ready(function(){
 
   var animateBox1 = anime({
-    targets: '#box1',
-    translateX: -30,
+    targets: '.animateBox1',
+    translateY: 20,
     direction: 'alternate',
     autoplay: false
   });
 
   var animateBox2 = anime({
-    targets: '#box2',
-    translateX: 30,
+    targets: '.animateBox2',
+    translateY: 20,
     direction: 'alternate',
     autoplay: false
   });
 
   var animateBox3 = anime({
-    targets: '#box3',
-    translateX: -30,
+    targets: '.animateBox3',
+    translateY: 20,
     direction: 'alternate',
     autoplay: false
   });
 
   var animateBox4 = anime({
-    targets: '#box4',
-    translateX: 30,
+    targets: '.animateBox4',
+    translateY: 20,
     direction: 'alternate',
     autoplay: false
   });

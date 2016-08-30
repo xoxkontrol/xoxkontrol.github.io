@@ -1,6 +1,31 @@
 /*
 xoxkontrol styling sheet over riding materialize specific.
 */
+.main-background-color{
+  background-color:#baeb15;
+}
+.main-text-color{
+  color:#baeb15;
+}
+.dark-background-color{
+  background-color:#1b1b17;
+}
+.dark-text-color{
+  color:#1b1b17;
+}
+.darkgreen-background-color{
+  background-color:#273105;
+}
+.darkgreen-text-color{
+  color:#273105;
+}
+.light-background-color{
+  background-color:#e0e749;
+}
+.light-text-color{
+  color:#d5ff4b;
+}
+
 .parallax-container{
   height:600px;
   width:100%;
@@ -29,9 +54,9 @@ xoxkontrol styling sheet over riding materialize specific.
 
 h4, h3, h2, h1{ font-size:3em;margin:0%;font-weight:bold;}
 h2{ font-size:2.5em;}
-h3{ font-size:2em;}
+h3{ font-size:1.5em;}
 h4{ font-size:1.5em;}
-p{ font-size:1.4em; }
+p{ font-size:1.2em; }
 
 .h_2,.h_10, .h_20, .h_50, .h_100, .h_200, .h_300, .h_400, .h_500,
 .h_600, .h_700, .h_800, .h_900, .h_1000{ min-height:2px; max-height:50000px; }
@@ -81,15 +106,15 @@ p{ font-size:1.4em; }
   background-position:center;
   background-blend-mode:overlay;
 }
-
 nav a.brand-logo {
-  background-image:url("../images/page/logo.png");
-  background-size:60%;
+  background-image:url("../images/logo.png");
+  background-size:100%;
   background-repeat:no-repeat;
   background-position:center;
-  width:5em;
+  width:6em;
   height:100%;
   top:0%;
+  margin-left:1em;
 }
 nav a.brand-logo.logoalt{
   background-image:url("");
@@ -114,7 +139,7 @@ nav ul li .alt#icon-only:hover {
 }
 
 nav ul li .alt2#icon-only:hover {
-   background-color:#fee;
+  background-color:#273105;
 }
 
 nav ul li .alt2#icon-only {
@@ -185,7 +210,7 @@ body {
 }
 
 .myavatar{
-  height:180px;
+  height:100px;
 }
 
 .myavatar2{
